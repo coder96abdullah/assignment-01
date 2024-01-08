@@ -331,7 +331,7 @@ header {
 .sales-part {
     width: 90%;
     margin: 5px auto;
-    background-image: url("images/Rectangle\ 2.png"), url("images/Rectangle\ 1.png");
+    background-image: url("images/Rectangle2.png"), url("images/Rectangle1.png");
     background-position: bottom, 893px 237px;
     background-repeat: no-repeat;
     padding-bottom: 224px;
